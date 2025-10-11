@@ -20,4 +20,4 @@ A simple, safe and reliable browser built using PyQt5
 4. Type `pip install PyQt5 PyQtWebEngine`
 5. Run main.py
 
-* Make sure all the files are in order as it is in Release 1.
+**Make sure all the files are in order as it is in Release 1!**
