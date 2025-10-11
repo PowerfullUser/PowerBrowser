@@ -8,7 +8,7 @@ import sys
 
 # Details of Browser
 name = 'PowerBrowser'
-version = '0.1'
+version = '1'
 font = 'Calibri'
 size = 14
 
