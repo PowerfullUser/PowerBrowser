@@ -2,7 +2,7 @@
 A Powerfull Web Browser using PyQt5
 
 ## About
-PowerBrowser is a personal 9th Grade Project Idea. It is not meant for personal use, please do not send pull requests, you may send issues with the code. If you desire, you may use this browser. This browser will be updated every 3 months, hence the next update will be on Early-Late December.
+PowerBrowser is a personal 9th Grade Project Idea. It is not meant for personal use, please do not send pull requests, you may send issues with the code. If you desire, you may use this browser. This browser will be updated every 3 months, hence the next update will be on Early November-
 
 ## Capabilities of the Browser
 - Has tabbed web-browswing
