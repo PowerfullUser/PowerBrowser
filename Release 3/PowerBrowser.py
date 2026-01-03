@@ -1,3 +1,21 @@
+# PowerBrowser - A multi-tabbed, rich-text editor built with PyQt6.
+#
+# Copyright 2026 Toshan Chowdhury
+#
+# Licensed under the GNU General Public License, Version 3.0 (GPLv3);
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#     https://www.gnu.org/licenses/gpl-3.0.en.html
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program. If not, see the link above.
+
 import datetime
 
 from PyQt6.QtWidgets import *
