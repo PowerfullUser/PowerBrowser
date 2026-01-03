@@ -1,0 +1,89 @@
+QWidget {
+    background-color: #f0f0f0; 
+}
+
+QToolBar {
+    background-color: #cbc8c8;
+    border-radius: 10px;
+    margin: 3px;
+    padding: 2px;
+}
+
+QToolButton {
+    background-color: #ffffff;
+    border-radius: 10px;
+    margin: 3px;
+    padding: 3px;
+    color: #000;
+}
+
+QToolButton:hover {
+    background-color: #a0c4ff;
+    border-radius: 12px;
+    margin: 3px;
+    padding: 3px;
+    color: #000;
+    border: 2px solid gray;
+}
+
+QToolButton:checked {
+    background-color: #007bff;
+    border-radius: 12px;
+    margin: 3px;
+    padding: 3px;
+    color: #fff;
+    border: 2px solid gray; 
+}
+
+QLineEdit {
+    background-color: #ffffff;
+    color: #000;
+    border-radius: 10px;
+    padding: 3px;
+}
+
+QLineEdit:hover {
+    background-color: #e9f5ff;
+    color: #000;
+    border-radius: 12px;
+    padding: 5px;
+    border: 2px solid gray;
+}
+
+QTabBar:tab {
+    background-color: #cccccc;
+    color: #000;
+    border-radius: 10px;
+    padding: 6.5px;
+    margin-left: 2px;
+    margin-top: 1px;
+    margin-bottom: 4px;
+    font-size: 14px;
+}
+
+QTabBar:tab::selected {
+    background-color: #28a745;
+    color: #000;
+    border-radius: 10px;
+    padding: 6.5px;
+    margin-left: 2px;
+    margin-top: 4px;
+    margin-bottom: 1px;
+    font-size: 14px;
+}
+
+QTabBar:tab:hover {
+    background-color: #69c782;
+    color: #000;
+    border-radius: 12px;
+    padding: 6.5px;
+    margin-left: 2px;
+    margin-top: 4px;
+    margin-bottom: 1px;
+    font-size: 16px;
+}
+
+QListWidget:item {
+    color: #000;
+    margin-bottom: 5px;
+}
