@@ -1,0 +1,3 @@
+PowerBrowser v4
+
+This project is licensed under GNU General Public License 3.0 for Copyright Claims. Please visit the LICENSE file of the project to see instructions on using this project. For running the application, you may check all code of this browser, it is not malicious, hence there is no risk in bypassing Windows Defender to download it. To bypass it, click on "More Info", followed by "Run Anyways". Thank You.
