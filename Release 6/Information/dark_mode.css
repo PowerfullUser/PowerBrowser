@@ -1,0 +1,117 @@
+QWidget {
+    background-color: #2f3030;
+    color: #fff;
+}
+
+QTabBar:tab {
+    border-radius: 10px;
+    background-color: #007ef2;
+    margin-left: 2px;
+    padding: 7px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    font-size: 15px;
+}
+
+QTabBar:tab::selected {
+    border-radius: 12px;
+    background-color: blue;
+    margin-left: 2px;
+    padding: 7px;
+    margin-top: 4px;
+    margin-bottom: 2px;
+    font-size: 15px;
+}
+
+QTabBar:tab:hover {
+    border-radius: 12px;
+    background-color: darkblue;
+    margin-left: 2px;
+    padding: 7px;
+    margin-top: 4px;
+    margin-bottom: 2px;
+    font-size: 15px;
+    border: 2px solid #000;
+}
+
+QLineEdit {
+    padding: 5px;
+    margin: 2px;
+    border-radius: 10px;
+    background-color: #a2a7b0;
+    color: #000;
+}
+
+QLineEdit:hover {
+    padding: 3px;
+    margin: 2px;
+    border-radius: 10px;
+    background-color: gray;
+    color: #000;
+    border: 2px solid #000;
+}
+
+QToolBar {
+    background-color: #434445;
+    margin: 5px;
+    border-radius: 10px;
+    padding: 2px;
+}
+
+QToolButton {
+    background-color: #a2a7b0;
+    border-radius: 10px;
+    padding: 2.5px;
+    margin: 3px;
+    color: #000;
+}
+
+QToolButton:checked {
+    background-color: blue;
+    border-radius: 12px;
+    padding: 2.5px;
+    margin: 3px;
+    border: 2px solid #000;
+    color: #fff;
+}
+
+QToolButton:hover {
+    background-color: gray;
+    border-radius: 12px;
+    padding: 3px;
+    margin: 3px;
+    border: 2px solid #000;
+}
+
+QListWidget {
+    border: 2px solid #000;
+    border-radius: 15px;
+    background-color: #312f2f;
+}
+
+QListWidget:item {
+    border: 2px solid #000;
+    border-radius: 12px;
+    background-color: #a2a7b0;
+    padding: 5px;
+    margin: 5px;
+    color: #000;
+}
+
+QListWidget:item:hover {
+    border: 2px solid #000;
+    border-radius: 12px;
+    background-color: gray;
+    padding: 5px;
+    margin: 5px;
+    color: #000;
+}
+
+QTextEdit {
+    border: 2px solid #000;
+    border-radius: 15px;
+    background-color: #312f2f;
+    font-size: 20px;
+    margin: 10px;
+    padding: 10px;
+}
