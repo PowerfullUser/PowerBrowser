@@ -13,9 +13,6 @@ PowerBrowser is a personal 9th Grade Project Idea. It is not meant for personal 
 - Supports PyQt6
 - Semi-history and bookmark containing support
 
-## Future Improvements on PowerBrowser Version 4
-- Added a error log for any occurring of errors
-- Separation of Settings from Menu Bar to a new panel
-- Overall adapts a more simplistic UI
-
-### Enjoy your Christmas, and see you till the launch of v4!!!
+## Future Improvements on PowerBrowser Version 7
+- Deisgn patches
+- Optimization for your browser
