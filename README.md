@@ -9,10 +9,14 @@ PowerBrowser is a personal 9th Grade Project Idea. It is not meant for personal 
 - Contains robust security
 - Is able to upload and download to and from sites
 - Can load almost all websites
-- Has a clean UI with light and dark moce
-- Supports PyQt6
-- Semi-history and bookmark containing support
+- Has a clean UI with light and dark mode
+- History and bookmark containing support
+- SQL Database Connection
+- Note-taking ability
+- Reading Various Types of Documents
+- Has an istant search feature
 
-## Future Improvements on PowerBrowser Version 7
-- Deisgn patches
-- Optimization for your browser
+## Future Improvements on PowerBrowser Version 9
+- Direct Implementation of notes panel into the browser
+- Customization and Configuration of the registration
+- General Bug Fixes and UI improvements
