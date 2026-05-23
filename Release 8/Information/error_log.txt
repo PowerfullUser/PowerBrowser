@@ -1,0 +1,2 @@
+connect() missing required argument 'slot' (pos 1)
+'MainWindow' object has no attribute 'dialog'
