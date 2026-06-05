@@ -1,4 +1,0 @@
-- Download Python 3.12 or more
-- use pip to install PyQt5 and PyQtWebEngine (pip install PyQt5 PyQtWebEngine)
-- Extract files
-- Run main.py
