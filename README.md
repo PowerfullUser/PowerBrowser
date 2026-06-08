@@ -16,7 +16,6 @@ PowerBrowser is a personal 9th Grade Project Idea. It is not meant for personal 
 - Reading Various Types of Documents
 - Has an istant search feature
 
-## Future Improvements on PowerBrowser Version 9
-- Direct Implementation of notes panel into the browser
-- Customization and Configuration of the registration
-- General Bug Fixes and UI improvements
+## Future Improvements on PowerBrowser Version 10
+- Upgrading of the Settings Panel
+- Addtion of Quick Notes
